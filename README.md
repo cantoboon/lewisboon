@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a Software Engineer working in Finance in London. Mainly working with Java, but I experiment with Go, Rust, and occassionally web technologies.
+
+- 🧾 [Bookmarks of interesting articles and websites I come across](https://github.com/lewisboon/bookmarks/blob/main/README.md)
+- 📷 [Photos from some of my trips](https://www.lewisboon.com)
+
 <!--
 **lewisboon/lewisboon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
