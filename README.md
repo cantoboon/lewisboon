@@ -5,6 +5,13 @@ I'm a Software Engineer working in Finance in London. Mainly working with Java, 
 - 🧾 [Bookmarks of interesting articles and websites I come across](https://github.com/lewisboon/bookmarks/blob/main/README.md)
 - 📷 [Photos from some of my trips](https://www.lewisboon.com)
 
+#### Topics I'm interested in
+
+- CI/CD
+- Infrastructure as Code
+- Automation
+- Integrating disparate systems
+
 <!--
 **lewisboon/lewisboon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
