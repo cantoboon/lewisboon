@@ -12,7 +12,7 @@ I'm a Software Engineer working in Finance in London. Mainly working with Java, 
 - Automation
 - Integrating disparate systems
 - Developer productivity
-- Utilising security scanning tools
+- Security scanning tools
 
 <!--
 **lewisboon/lewisboon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
